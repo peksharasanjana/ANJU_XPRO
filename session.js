@@ -43,5 +43,5 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~qY8FlQCS#Ll97NKJE6lyyO0a57if4ALJf8VTUwD9EPUp4Vi3fB8g",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "> *ＤＡＲＫＳＨＡＤＯＷ  ＣＩＮＥＭＡ ＴＥＡＭ*",
+FOOTER: process.env.FOOTER || "> *ＤＡＲＫＳＨＡＤＯＷＸＴＥＡＭ*",
 };
