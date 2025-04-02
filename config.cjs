@@ -28,7 +28,7 @@ module.exports = {
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
-  "FOOTER": "> QUEEN ANJU XPRO\n> Developed by Mr. Rashmika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
+  "FOOTER": "> *ＤＡＲＫＳＨＡＤＯＷＸＴＥＡＭ*",
   "OWNER_REACT": false,
   "EMOJI": "🏷",
   "AI_MODE": false,
