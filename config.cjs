@@ -1,28 +1,28 @@
 module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
-  "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "MODE": "private",
+  "BOT_NUMBER": "94741541440",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": true,
-  "AUTO_STICKER": true,
+  "AUTO_STICKER": false,
   "AUTO_REPLY": false,
   "AUTO_REACT": false,
   "WELCOME": false,
-  "MNAME": "ANJU XPRO",
-  "ANTI_BAD": [],
-  "ANTI_BOT": [],
+  "MNAME": "PODIYA-XR",
+  "ANTI_BAD": [false],
+  "ANTI_BOT": [false],
   "ANTI_LINK": [],
   "ANTI_CALL": false,
   "ANTI_DELETE": false,
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": "3",
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "MR PEKSHA",
   "NEWS_JID": false,
   "MOVIE_JID": [
-    "94758775628@s.whatsapp.net"
+    "94741541440@s.whatsapp.net"
   ],
   "ANIME_JID": false,
   "AUTO_TYPING": false,
@@ -35,7 +35,7 @@ module.exports = {
   "AI": "RASH",
   "BANNED": [],
   "SUDO": [
-    "94717775628"
+    "94741541440"
   ],
   "LANG": "EN",
   "MAX_SIZE": 100,
